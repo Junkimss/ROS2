@@ -1,0 +1,4 @@
+[console_scripts]
+pub = ros_test.pub:main
+sub = ros_test.sub:main
+

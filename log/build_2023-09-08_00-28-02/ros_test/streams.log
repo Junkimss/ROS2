@@ -1,0 +1,18 @@
+[0.334s] Invoking command in '/home/junsung/robot_ws/build/ros_test': PYTHONPATH=/home/junsung/robot_ws/build/ros_test/prefix_override:/home/junsung/robot_ws/install/ros_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/junsung/robot_ws/build/ros_test/build --no-deps install_data
+[0.445s] running develop
+[0.505s] running egg_info
+[0.505s] writing ros_test.egg-info/PKG-INFO
+[0.505s] writing dependency_links to ros_test.egg-info/dependency_links.txt
+[0.505s] writing entry points to ros_test.egg-info/entry_points.txt
+[0.505s] writing requirements to ros_test.egg-info/requires.txt
+[0.505s] writing top-level names to ros_test.egg-info/top_level.txt
+[0.523s] reading manifest file 'ros_test.egg-info/SOURCES.txt'
+[0.523s] writing manifest file 'ros_test.egg-info/SOURCES.txt'
+[0.541s] running build_ext
+[0.541s] Creating /home/junsung/robot_ws/install/ros_test/lib/python3.8/site-packages/ros-test.egg-link (link to .)
+[0.541s] Installing pub script to /home/junsung/robot_ws/install/ros_test/lib/ros_test
+[0.541s] Installing sub script to /home/junsung/robot_ws/install/ros_test/lib/ros_test
+[0.541s] 
+[0.541s] Installed /home/junsung/robot_ws/build/ros_test
+[0.542s] running install_data
+[0.556s] Invoked command in '/home/junsung/robot_ws/build/ros_test' returned '0': PYTHONPATH=/home/junsung/robot_ws/build/ros_test/prefix_override:/home/junsung/robot_ws/install/ros_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/junsung/robot_ws/build/ros_test/build --no-deps install_data

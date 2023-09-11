@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/ros_test
+ros_test/__init__.py
+ros_test/pub.py
+ros_test/sub.py
+ros_test.egg-info/PKG-INFO
+ros_test.egg-info/SOURCES.txt
+ros_test.egg-info/dependency_links.txt
+ros_test.egg-info/entry_points.txt
+ros_test.egg-info/requires.txt
+ros_test.egg-info/top_level.txt
+ros_test.egg-info/zip-safe

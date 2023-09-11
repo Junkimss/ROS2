@@ -1,0 +1,18 @@
+[0.332s] Invoking command in '/home/junsung/robot_ws/src/build/my_first_ros_rclpy_pkg': PYTHONPATH=/home/junsung/robot_ws/src/build/my_first_ros_rclpy_pkg/prefix_override:/home/junsung/robot_ws/src/install/my_first_ros_rclpy_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/junsung/robot_ws/src/build/my_first_ros_rclpy_pkg/build --no-deps install_data
+[0.448s] running develop
+[0.508s] running egg_info
+[0.508s] writing my_first_ros_rclpy_pkg.egg-info/PKG-INFO
+[0.508s] writing dependency_links to my_first_ros_rclpy_pkg.egg-info/dependency_links.txt
+[0.508s] writing entry points to my_first_ros_rclpy_pkg.egg-info/entry_points.txt
+[0.508s] writing requirements to my_first_ros_rclpy_pkg.egg-info/requires.txt
+[0.508s] writing top-level names to my_first_ros_rclpy_pkg.egg-info/top_level.txt
+[0.524s] reading manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[0.525s] writing manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[0.542s] running build_ext
+[0.542s] Creating /home/junsung/robot_ws/src/install/my_first_ros_rclpy_pkg/lib/python3.8/site-packages/my-first-ros-rclpy-pkg.egg-link (link to .)
+[0.542s] Installing helloworld_publisher script to /home/junsung/robot_ws/src/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[0.543s] Installing helloworld_subscriber script to /home/junsung/robot_ws/src/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[0.543s] 
+[0.543s] Installed /home/junsung/robot_ws/src/build/my_first_ros_rclpy_pkg
+[0.543s] running install_data
+[0.557s] Invoked command in '/home/junsung/robot_ws/src/build/my_first_ros_rclpy_pkg' returned '0': PYTHONPATH=/home/junsung/robot_ws/src/build/my_first_ros_rclpy_pkg/prefix_override:/home/junsung/robot_ws/src/install/my_first_ros_rclpy_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/junsung/robot_ws/src/build/my_first_ros_rclpy_pkg/build --no-deps install_data
